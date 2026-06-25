@@ -1,0 +1,83 @@
+# Bar200 — Generative Engine Optimization Map
+
+> A real-time global stock market tracking website that displays the current value of publicly traded stocks from around the world. The platform aims to provide users with up-to-date financial data in a clear and accessible format, serving investors, traders, and anyone interested in the stock market.
+
+---
+
+## Pages
+
+### בית
+https://bar200-33ff94d3.zappy5.app
+גלה את Bar200, פלטפורמת המעקב הגלובלית שמביאה לך את ערכי המניות העדכניים מרחבי העולם. הישאר מעודכן עם נתונים פיננסיים ברורים ונגישים — התחל לעקוב עכשיו.
+
+### סיקור שוק
+https://bar200-33ff94d3.zappy5.app/market-coverage
+חקור את סיקור השוק המקיף של Bar200, המכסה מניות ציבוריות מכל הבורסות המובילות. הישאר צעד אחד קדימה עם מידע פיננסי גלובלי — בדוק את הכיסוי שלנו עוד היום.
+
+### תובנות ומתודולוגיה
+https://bar200-33ff94d3.zappy5.app/insights-methodology
+העמק בתובנות ובמתודולוגיה מאחורי Bar200, המספקים ניתוח שוק מתקדם למשקיעים וסוחרים. למד כיצד אנו מנתחים נתונים פיננסיים — היכנס לעולם התובנות עכשיו.
+
+### צור קשר
+https://bar200-33ff94d3.zappy5.app/contact
+יש לך שאלות על Bar200? צור קשר עם צוות המומחים שלנו וקבל תמיכה במעקב אחר שוק ההון. אנחנו כאן כדי להעצים את ההשקעות שלך — שלח הודעה עכשיו.
+
+### תודה על פנייתך
+https://bar200-33ff94d3.zappy5.app/thank-you
+Bar200 - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://bar200-33ff94d3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://bar200-33ff94d3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://bar200-33ff94d3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://bar200-33ff94d3.zappy5.app/contact
+- Endpoint: https://bar200-33ff94d3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Bar200
+A real-time global stock market tracking website that displays the current value of publicly traded stocks from around the world. The platform aims to provide users with up-to-date financial data in a clear and accessible format, serving investors, traders, and anyone interested in the stock market.
+
+## Target Audience
+- משקיעים, סוחרי מניות, אנשים המתעניינים בשוק ההון
+- משקיעים גלובליים
+- סוחרי מניות פעילים
+- אנליסטים פיננסיים
+
+## Industry
+Finance & Stock Market
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://bar200-33ff94d3.zappy5.app/sitemap.xml
+- Robots: https://bar200-33ff94d3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://bar200-33ff94d3.zappy5.app/llms-full.txt
